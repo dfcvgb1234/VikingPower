@@ -1,0 +1,29 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingQuest", "Assembly-CSharp.csproj", "{390987AF-57AE-71DD-2093-F65525CF77A1}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "VikingQuest", "Assembly-CSharp-Editor.csproj", "{6E2CA804-FA38-4819-2ADE-D2B6D7CF3F4D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{390987AF-57AE-71DD-2093-F65525CF77A1}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{390987AF-57AE-71DD-2093-F65525CF77A1}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{390987AF-57AE-71DD-2093-F65525CF77A1}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{390987AF-57AE-71DD-2093-F65525CF77A1}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6E2CA804-FA38-4819-2ADE-D2B6D7CF3F4D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6E2CA804-FA38-4819-2ADE-D2B6D7CF3F4D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6E2CA804-FA38-4819-2ADE-D2B6D7CF3F4D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6E2CA804-FA38-4819-2ADE-D2B6D7CF3F4D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal
