@@ -14,7 +14,7 @@ public class HouseTrigger : MonoBehaviour {
 		
 	}
     
-    void OnTriggerEnter2D(Collider2D col)
+    void OnTriggerEnter(Collider col)
     {
         print("FUN");
     }
