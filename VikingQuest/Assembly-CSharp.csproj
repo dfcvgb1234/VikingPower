@@ -62,9 +62,11 @@
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs" />
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
+     <Compile Include="Assets\TimeScr.cs" />
      <Compile Include="Assets\_Scripts\Follow.cs" />
      <Compile Include="Assets\_Scripts\HouseTrigger.cs" />
      <Compile Include="Assets\_Scripts\WalkingScript.cs" />
+     <Compile Include="Assets\_Scripts\cOLLECT.cs" />
      <None Include="Assets\Assets\Tiled2Unity\Imported\untitled.tiled2unity.xml" />
      <None Include="Assets\Assets\Tiled2Unity\Shaders\shaDefault.shader" />
      <None Include="Assets\Assets\Tiled2Unity\Prefabs\_ReadMe.txt" />

@@ -1,6 +1,12 @@
 ﻿<Properties StartupItem="Assembly-CSharp.csproj">
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
-  <MonoDevelop.Ide.Workbench />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets\_Scripts\cOLLECT.cs">
+    <Files>
+      <File FileName="Assets\_Scripts\cOLLECT.cs" Line="13" Column="30" />
+      <File FileName="Assets\_Scripts\HouseTrigger.cs" Line="15" Column="5" />
+      <File FileName="Assets\TimeScr.cs" Line="9" Column="21" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
   <MonoDevelop.Ide.DebuggingService.Breakpoints>
     <BreakpointStore />
   </MonoDevelop.Ide.DebuggingService.Breakpoints>
