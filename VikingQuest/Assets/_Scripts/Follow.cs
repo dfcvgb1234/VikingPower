@@ -13,5 +13,8 @@ public class Follow : MonoBehaviour {
 	// Update is called once per frame
 	void Update () {
         this.gameObject.transform.position = follow.transform.position + new Vector3(0, 0, offset);
+        Mathf.Clamp(follow.transform.position.x,400,2825);
+        Mathf.Clamp(follow.transform.position.y, -2000, -178);
+
 	}
 }

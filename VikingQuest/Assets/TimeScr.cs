@@ -6,7 +6,7 @@ using UnityEngine.SceneManagement;
 
 public class TimeScr : MonoBehaviour {
 
-	float timeLeft = 60.0f;
+	public float timeLeft = 60.0f;
 
 	public Text timeText;
 
