@@ -62,13 +62,16 @@
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs" />
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
      <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
+     <Compile Include="Assets\GetDataFromWood.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\CreditManager.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\ExitManager.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\GameSettings.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\MenuManager.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\NewManager.cs" />
      <Compile Include="Assets\Menus\TGT.Menu\SettingManager.cs" />
+     <Compile Include="Assets\TimeForWood.cs" />
      <Compile Include="Assets\TimeScr.cs" />
+     <Compile Include="Assets\WoodCutting.cs" />
      <Compile Include="Assets\_Scripts\Follow.cs" />
      <Compile Include="Assets\_Scripts\HouseTrigger.cs" />
      <Compile Include="Assets\_Scripts\WalkingScript.cs" />

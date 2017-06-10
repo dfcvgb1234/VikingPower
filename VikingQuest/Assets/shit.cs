@@ -12,7 +12,7 @@ public class shit : MonoBehaviour
 
     void Awake()
     {
-        textshit.text = "Du huggede " + WoodCutting.point + " stykker brænde!";
+        textshit.text = "Du samlede " + cOLLECT.scroew + " stykker gigant rav!";
     }
 
     void OnEnable()
@@ -25,6 +25,6 @@ public class shit : MonoBehaviour
 
     void OnNewGamePress()
     {
-        SceneManager.LoadScene("WoodCuttingScene");
+        SceneManager.LoadScene("MainMenu");
     }
 }

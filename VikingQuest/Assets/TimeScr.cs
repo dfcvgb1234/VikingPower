@@ -16,7 +16,12 @@ public class TimeScr : MonoBehaviour {
 		timeText.text = "Tid Tilage:" + Mathf.Round(timeLeft);
 		if(timeLeft < 0)
 		{
-			SceneManager.LoadScene ("GameOver");
+			if(Application.loadedLevelName == "Rav"){
+				SceneManager.LoadScene ("GameOver_rav");
+			}
+			if(Application.loadedLevelName == "WoodCuttingScene"){
+				SceneManager.LoadScene ("GameOver_wood");
+			}
 		}
 	}
 }

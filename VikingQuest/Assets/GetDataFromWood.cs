@@ -24,6 +24,6 @@ public class GetDataFromWood : MonoBehaviour {
 
     void OnNewGamePress()
     {
-        SceneManager.LoadScene("WoodCuttingScene");
+        SceneManager.LoadScene("MainMenu");
     }
 }

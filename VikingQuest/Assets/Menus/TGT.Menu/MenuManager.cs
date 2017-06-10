@@ -85,7 +85,7 @@ namespace TGT.Menu
 		public void OnHugPress()
 		{
 			Debug.Log("OnHugPress");
-			SceneManager.LoadScene ("Hug");
+			SceneManager.LoadScene ("WoodCuttingScene");
 		}
 
 		public void OnSettingsPress()
