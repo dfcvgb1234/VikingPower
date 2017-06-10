@@ -82,12 +82,6 @@
     <Reference Include="UnityEditor.iOS.Extensions.Xcode">
       <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
     </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Xcode">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Xcode.dll</HintPath>
-    </Reference>
-    <Reference Include="UnityEditor.iOS.Extensions.Common">
-      <HintPath>Library\UnityAssemblies\UnityEditor.iOS.Extensions.Common.dll</HintPath>
-    </Reference>
     <Reference Include="Facebook.Unity.Settings">
       <HintPath>Library\FacebookSDK\Facebook.Unity.Settings.dll</HintPath>
     </Reference>
@@ -109,13 +103,19 @@
     <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledInitialShaderProperties.cs" />
     <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TiledMap.cs" />
     <Compile Include="Assets\Assets\Tiled2Unity\Scripts\Runtime\TmxObject.cs" />
+<<<<<<< HEAD
     <Compile Include="Assets\Menus\TGT.Menu\CreditManager.cs" />
     <Compile Include="Assets\Menus\TGT.Menu\ExitManager.cs" />
     <Compile Include="Assets\Menus\TGT.Menu\GameSettings.cs" />
     <Compile Include="Assets\Menus\TGT.Menu\MenuManager.cs" />
     <Compile Include="Assets\Menus\TGT.Menu\NewManager.cs" />
     <Compile Include="Assets\Menus\TGT.Menu\SettingManager.cs" />
+=======
+    <Compile Include="Assets\GetDataFromWood.cs" />
+    <Compile Include="Assets\TimeForWood.cs" />
+>>>>>>> 2f2a2c4f304a334a05a8f61bf82ec79c41d336ed
     <Compile Include="Assets\TimeScr.cs" />
+    <Compile Include="Assets\WoodCutting.cs" />
     <Compile Include="Assets\_Scripts\Follow.cs" />
     <Compile Include="Assets\_Scripts\HouseTrigger.cs" />
     <Compile Include="Assets\_Scripts\WalkingScript.cs" />
